@@ -12,9 +12,14 @@
   text-align: center;
   padding: 0;
   margin: 0;
-  float: right;
 } 
  
+ li {
+  float: right;
+  border-left: 1px solid #999;
+  font: bold 15px Dotum;
+  padding: 0 10px;
+ }
 
  header {
     background: url("https://cdn.pixabay.com/photo/2016/10/20/18/51/sun-1756322_960_720.jpg") no-repeat center center; 
@@ -26,7 +31,7 @@
 }
 
 h1{
- text-align: center ;
+ float: left;
 }
 h2, p, h3 { 
  text-align: center;
