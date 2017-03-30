@@ -5,6 +5,7 @@
  font-size: 15px;
  display: inline-block;
  line-height: 15px;
+ font-family: jeju gothic;
 }
 
  ul {
@@ -17,7 +18,7 @@
  li {
   float: right;
   border-left: 1px solid #999;
-  font: bold 15px Dotum;
+  font: bold 15px jeju gothic;
   padding: 0 10px;
  }
 
@@ -32,9 +33,11 @@
 
 h1{
  float: left;
+ font-family: jeju gothic;
 }
 h2, p, h3 { 
  text-align: center;
+ font-family: jeju gothic;
 }
 
  section {
